@@ -1,0 +1,12 @@
+.places {
+  max-width: 984px;
+  color: white;
+  margin: auto;
+}
+
+@media (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+  }
+  }
+}

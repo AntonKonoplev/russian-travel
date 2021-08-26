@@ -1,0 +1,24 @@
+.place__text {
+  grid-column: 2/3;
+  grid-row: 2/3;
+}
+
+@media (max-width: 768px) {
+  .place__text {
+    width: 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  .place__text {
+    order: 5;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__text {
+    order: 5;
+    width: 288px;
+    margin: auto;
+  }
+}

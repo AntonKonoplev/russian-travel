@@ -1,0 +1,17 @@
+.place__website {
+  align-self: end;
+}
+
+@media (max-width: 400px) {
+  .place__website {
+    order: 2;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__website {
+    width: 288px;
+    margin: auto;
+    order: 2;
+  }
+}

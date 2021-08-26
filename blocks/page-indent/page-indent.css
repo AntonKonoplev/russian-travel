@@ -1,0 +1,25 @@
+.page-indent {
+  margin-bottom: 92px;
+}
+
+.page-indent:first-child {
+  margin-bottom: 56px;
+}
+
+@media (max-width: 768px) {
+  .page-indent {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 420px) {
+  .page-indent {
+    margin-bottom: 70px;
+  }
+}
+
+@media (max-width: 320px) {
+  .page-indent {
+    margin-bottom: 64px;
+  }
+}
