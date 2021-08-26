@@ -10,3 +10,5 @@
 - Адаптивная верстка
 - БЭМ
 - Файловая структура по БЭМ (Nested)
+
+Ссылка на GitHub Pages https://antonkonoplev.github.io/russian-travel/
