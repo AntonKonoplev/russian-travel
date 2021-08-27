@@ -16,13 +16,6 @@
   margin-right: 0;
 }
 
-@media (max-width: 767px) {
-  .footer__link {
-    font-size: 12px;
-    line-height: 16px;
-  }
-}
-
 @media (max-width: 620px) {
   .footer__link {
     margin-bottom: 20px;

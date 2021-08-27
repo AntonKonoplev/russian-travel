@@ -5,12 +5,17 @@
   font-weight: 900;
 }
 
+@media (max-width: 768px) {
+  .intro__title {
+    margin: auto;
+  }
+}
+
 @media (max-width: 740px) {
   .intro__title {
     width: 80%;
     line-height: 40px;
     font-size: 48px;
-    margin: 0 auto;
   }
 }
 
