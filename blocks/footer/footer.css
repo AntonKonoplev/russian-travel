@@ -5,6 +5,7 @@
   width: 92.4%;
   margin: auto;
   padding-bottom: 24px;
+  max-width: 1184px;
 }
 
 @media (max-width: 320px) {

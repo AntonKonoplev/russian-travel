@@ -3,6 +3,14 @@
   color: white;
   display: flex;
   flex-direction: column;
+  max-width: 690px;
+}
+
+@media (min-width: 1280px) {
+  .intro {
+    margin: auto;
+    padding-right: 430px;
+  }
 }
 
 @media (max-width: 1024px) {
